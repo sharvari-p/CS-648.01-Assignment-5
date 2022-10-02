@@ -1,1 +1,2 @@
-# CS-648.01-Assignment-5
+##### Introduction:
+Built the website for Vecta Corp with CSS using Sass.
